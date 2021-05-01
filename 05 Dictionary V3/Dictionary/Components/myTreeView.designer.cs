@@ -53,12 +53,11 @@ namespace WindowsFormsApp1.Components
             this.treeView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Name = "treeView1";
-            this.treeView1.Size = new System.Drawing.Size(100, 100);
+            this.treeView1.Size = new System.Drawing.Size(292, 617);
             this.treeView1.StateImageList = this.imageList1;
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterExpand += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterExpand);
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
-          
             this.treeView1.DragDrop += new System.Windows.Forms.DragEventHandler(this.treeView1_DragDrop);
             this.treeView1.DragEnter += new System.Windows.Forms.DragEventHandler(this.treeView1_DragEnter);
             this.treeView1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.treeView1_MouseClick);
@@ -76,7 +75,7 @@ namespace WindowsFormsApp1.Components
             this.openFolderLocation,
             this.removeFolderToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(189, 202);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(189, 224);
             // 
             // renameToolStripMenuItem
             // 
@@ -111,6 +110,7 @@ namespace WindowsFormsApp1.Components
             this.Rename.Name = "Rename";
             this.Rename.Size = new System.Drawing.Size(188, 22);
             this.Rename.Text = "Rename";
+            this.Rename.Click += new System.EventHandler(this.rename);
             // 
             // newFileToolStripMenuItem
             // 

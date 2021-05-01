@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.Components.myTreeView">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="WindowsFormsApp1.Components.myTreeView.AfterSelectFunc" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Components\myTreeView.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QgCgAEAEACgAAGFIAAGBRwBCAAAhgRoIBCACAAAJlIA=</HashCode>
+      <FileName>Components\myTreeView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
