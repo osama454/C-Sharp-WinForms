@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\WindowsFormsApp1.Components.DialogBox.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\WindowsFormsApp1.Components.myTreeView.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.MainScreen.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.myTabControl.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.myNotePad.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.myRichTextBox.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.MenuStrip.resources
+C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.SplitContainer.resources
