@@ -82,7 +82,7 @@ namespace WindowsFormsApp1.Components
             this.renameToolStripMenuItem.Name = "renameToolStripMenuItem";
             this.renameToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.renameToolStripMenuItem.Text = "Copy";
-            this.renameToolStripMenuItem.Click += new System.EventHandler(this.rename);
+            this.renameToolStripMenuItem.Click += new System.EventHandler(this.copy);
             // 
             // cutToolStripMenuItem
             // 
@@ -90,6 +90,7 @@ namespace WindowsFormsApp1.Components
             this.cutToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
             this.cutToolStripMenuItem.Text = "Cut";
             this.cutToolStripMenuItem.Click += new System.EventHandler(this.cut);
+            
             // 
             // pastToolStripMenuItem
             // 
