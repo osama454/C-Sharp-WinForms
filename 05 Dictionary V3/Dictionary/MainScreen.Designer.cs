@@ -1,4 +1,5 @@
 ﻿
+using System.Windows.Forms;
 using static WindowsFormsApp1.Components.myTreeView;
 
 namespace Dictionary
@@ -39,7 +40,7 @@ namespace Dictionary
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainer1.Location = new System.Drawing.Point(0, 0);
-            this.splitContainer1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.splitContainer1.Margin = new System.Windows.Forms.Padding(4);
             this.splitContainer1.Name = "splitContainer1";
             this.splitContainer1.Size = new System.Drawing.Size(659, 600);
             this.splitContainer1.TabIndex = 0;
@@ -50,11 +51,12 @@ namespace Dictionary
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(659, 600);
             this.Controls.Add(this.splitContainer1);
-            this.Font = new System.Drawing.Font("Tahoma", 12F);
+            this.Font = new System.Drawing.Font("Tahoma", 20F);
+            this.WindowState = FormWindowState.Maximized;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainScreen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Code Notes";
+            this.Text = "Code Notes for: ";
             this.ResumeLayout(false);
 
         }

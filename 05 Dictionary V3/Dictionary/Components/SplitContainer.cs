@@ -17,7 +17,15 @@ namespace Dictionary.Components
         {
             InitializeComponent();
 
-            myTreeView1.ConfigLoc = @"C:\ProgramData\00 osama CodeGenerator\Config.ini";
+            //myTreeView1.ConfigLoc = @"C:\ProgramData\00 osama CodeGenerator\Config.ini";
+            myTreeView1.treeSetting = (state) =>
+            {
+
+                if (state == null) return Properties.Settings.Default.Tree;
+                Properties.Settings.Default.Tree = state;
+                Properties.Settings.Default.Save();
+                return "";
+            };
 
             myTreeView1.AfterSelect = (sender, e) =>
             {

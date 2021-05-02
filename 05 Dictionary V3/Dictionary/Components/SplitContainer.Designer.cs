@@ -52,13 +52,13 @@ namespace Dictionary.Components
             // 
             this.splitContainer1.Panel2.Controls.Add(this.myNotePad1);
             this.splitContainer1.Size = new System.Drawing.Size(823, 406);
-            this.splitContainer1.SplitterDistance = 200;
+            this.splitContainer1.SplitterDistance = 150;
             this.splitContainer1.TabIndex = 0;
             // 
             // myTreeView1
             // 
             this.myTreeView1.AfterSelect = null;
-            this.myTreeView1.ConfigLoc = null;
+            
             this.myTreeView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.myTreeView1.Location = new System.Drawing.Point(0, 0);
             this.myTreeView1.Name = "myTreeView1";

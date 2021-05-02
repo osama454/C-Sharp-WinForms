@@ -41,7 +41,7 @@ namespace Dictionary.Components
             // 
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+          
             this.tabPage1.Size = new System.Drawing.Size(311, 259);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "+";
@@ -55,9 +55,9 @@ namespace Dictionary.Components
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
-            this.tabControl1.Padding = new Point(12, 4);
+            this.tabControl1.Padding = new Point(12, 0);
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(100, 273);
+            this.tabControl1.Size = new System.Drawing.Size(1, 273);
             this.tabControl1.DrawMode = TabDrawMode.OwnerDrawFixed;
             this.tabControl1.DrawItem += new System.Windows.Forms.DrawItemEventHandler(this.tabControl1_DrawItem);
             this.tabControl1.Selecting += new System.Windows.Forms.TabControlCancelEventHandler(this.tabControl1_Selecting);

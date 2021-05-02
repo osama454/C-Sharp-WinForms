@@ -32,16 +32,17 @@ namespace WindowsFormsApp1.Components
             // MessageBox.Show(this.ConfigLoc);
             try {
 
-                if (ConfigLoc!=null && !File.Exists(ConfigLoc))
-                {
-                    var myFile = File.Create(ConfigLoc);
-                    myFile.Close();
-                    MessageBox.Show("Text file is created in this path:\n"+ ConfigLoc+
-                        "\nto Store the Opened Folders in the Tree");
+                //if (treeSetting!=null &&ConfigLoc!=null && !File.Exists(ConfigLoc))
+                //{
+                //    var myFile = File.Create(ConfigLoc);
+                //    myFile.Close();
+                //    MessageBox.Show("Text file is created in this path:\n"+ ConfigLoc+
+                //        "\nto Store the Opened Folders in the Tree");
 
-                }
+                //}
 
-                string PathLocs = File.ReadAllText(ConfigLoc);
+                //string PathLocs = File.ReadAllText(ConfigLoc);
+                string PathLocs = treeSetting();
             //MessageBox.Show(PathLoc);
             foreach (string PathLoc in PathLocs.Split('\n'))
             {
@@ -289,24 +290,27 @@ namespace WindowsFormsApp1.Components
             if (treeView1.SelectedNode != null && treeView1.SelectedNode.Parent == null)
             {
 
-                string text = File.ReadAllText(ConfigLoc);
+                //string text = File.ReadAllText(ConfigLoc);
+                string text = treeSetting();
                 text = text.Replace(treeView1.SelectedNode.Tag.ToString(), "");
-                TextWriter tw = new StreamWriter(ConfigLoc);
-                tw.Write(text);
-                tw.Close();
-                treeView1.SelectedNode.Remove();
+                //TextWriter tw = new StreamWriter(ConfigLoc);
+                //tw.Write(text);
+                //tw.Close();
+                //treeView1.SelectedNode.Remove();
+                treeSetting(text);
 
             }
         }
 
 
-        string asdaq_sdfne = "";
+        
 
         private void LoadDirectoryInTree(string path2)
         {
+            string folders = treeSetting();
 
             if (Directory.Exists(path2) &&
-                !System.IO.File.ReadAllText(ConfigLoc).Contains(path2))
+                !folders.Contains(path2))
             {
 
                 PathLoc = path2;
@@ -318,9 +322,10 @@ namespace WindowsFormsApp1.Components
                 //TreeNode tds = treeView1.Nodes.Add(Path.GetFileName(PathLoc));
 
                 // tds.StateImageIndex = 0;
-                var tw = File.AppendText(ConfigLoc);
-                tw.Write('\n' + PathLoc);
-                tw.Close();
+                treeSetting(folders+ '\n' + PathLoc) ;
+                //var tw = File.AppendText(ConfigLoc);
+                //tw.Write('\n' + PathLoc);
+                //tw.Close();
             }
         }
 
@@ -390,15 +395,16 @@ namespace WindowsFormsApp1.Components
 
 
 
-        [Description("Configration File Location that contains the opened Folders in the tree"), Category("Data")]
-        public string ConfigLoc { get; set; } //@"C:\Users\Owner\Desktop\config.ini";
-                                              //public Control myTabControl1;
+        //[Description("Configration File Location that contains the opened Folders in the tree"), Category("Data")]
+        //public string ConfigLoc { get; set; } 
+                                              
 
         public delegate void AfterSelectFunc(object sender, TreeViewEventArgs e);
         [Description("the Function that will be Excuted when select item from the tree"), Category("Data")]
         public AfterSelectFunc AfterSelect { get; set; }
 
-
+        public delegate string Settings(string str = null);
+        public Settings treeSetting;
 
 
         private string Cliboard = "";

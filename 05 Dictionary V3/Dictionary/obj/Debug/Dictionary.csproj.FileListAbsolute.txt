@@ -15,10 +15,9 @@ C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Compon
 C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.myRichTextBox.resources
 C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.MenuStrip.resources
 C:\Users\Owner\Desktop\temp\C#\Dictionary\Dictionary\obj\Debug\Dictionary.Components.SplitContainer.resources
-D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\bin\Debug\Dictionary.exe.config
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\bin\Debug\Dictionary.exe
+D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\bin\Debug\Dictionary.exe.config
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\bin\Debug\Dictionary.pdb
-D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\WindowsFormsApp1.Components.DialogBox.resources
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.Components.myNotePad.resources
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.Components.myRichTextBox.resources
@@ -32,5 +31,4 @@ D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.exe
 D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.pdb
-D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\bin\Debug\Tulpep.NotificationWindow.dll
-D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.csproj.CopyComplete
+D:\projects\Github Repositories\C-Sharp-WinForms\05 Dictionary V3\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache

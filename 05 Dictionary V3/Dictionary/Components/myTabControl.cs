@@ -35,15 +35,16 @@ namespace Dictionary.Components
 
 
                     var addImage = Dictionary.Properties.Resources.Add;
-
+                   // addImage.SetResolution(tabRect.Height, tabRect.Height);
 
                     e.Graphics.DrawImage(addImage,
-                        tabRect.Left + (tabRect.Width - addImage.Width) / 2,
+                        tabRect.Left + (tabRect.Width - addImage.Height) / 2,
                         tabRect.Top + (tabRect.Height - addImage.Height) / 2);
                 }
                 else
                 {
                     var closeImage = Properties.Resources.Close;
+               
                     e.Graphics.DrawImage(closeImage,
                         (tabRect.Right - closeImage.Width),
                         tabRect.Top + (tabRect.Height - closeImage.Height) / 2);
