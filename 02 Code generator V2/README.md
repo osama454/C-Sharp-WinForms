@@ -21,6 +21,7 @@ id3={option1,option2,option3}
 6- press at test file 
 
 ![](images/2.JPG)
+
 7- press F5 to run python code if you have installed it
 ![](images/3.JPG)
 ![](images/4.JPG)
