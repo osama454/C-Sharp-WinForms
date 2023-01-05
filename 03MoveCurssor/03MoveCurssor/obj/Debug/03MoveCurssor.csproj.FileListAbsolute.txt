@@ -1,0 +1,13 @@
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\bin\Debug\03MoveCurssor.exe.config
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\bin\Debug\03MoveCurssor.exe
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\bin\Debug\03MoveCurssor.pdb
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.csprojAssemblyReference.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\_03MoveCurssor.Properties.Resources.resources
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.csproj.GenerateResource.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.csproj.CoreCompileInputs.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.exe
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.pdb
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\_03MoveCurssor.Form1.resources
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\bin\Debug\WindowsInput.dll
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\bin\Debug\WindowsInput.xml
+D:\projects\GithubRepositories\C-Sharp-WinForms\03MoveCurssor\03MoveCurssor\obj\Debug\03MoveCurssor.csproj.CopyComplete

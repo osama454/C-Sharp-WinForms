@@ -1,0 +1,13 @@
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.exe
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.deps.json
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.runtimeconfig.json
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.runtimeconfig.dev.json
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.dll
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\bin\Debug\netcoreapp3.1\04HackerRank.pdb
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.csprojAssemblyReference.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.AssemblyInfoInputs.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.AssemblyInfo.cs
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.csproj.CoreCompileInputs.cache
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.dll
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.pdb
+D:\projects\GithubRepositories\C-Sharp-WinForms\04HackerRank\04HackerRank\obj\Debug\netcoreapp3.1\04HackerRank.genruntimeconfig.cache

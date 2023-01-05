@@ -1,0 +1,35 @@
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mohamed_adel20\Desktop\New folder (2)\WindowsFormsApp1\obj\Debug\dictionary.input.resources
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\dictionary.input.resources
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\aosama\projects\csharp\Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\dictionary.input.resources
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.tmp.resources
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\aosama\projects\csharp\02 Code generator V2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
