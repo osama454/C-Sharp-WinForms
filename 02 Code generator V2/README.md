@@ -12,6 +12,7 @@ print("<id1> <id2> <id3>")
 id1=hello world
 id2
 id3={option1,option2,option3}
+
 ![](images/1.JPG)
 
 4- create new tap
@@ -23,5 +24,6 @@ id3={option1,option2,option3}
 ![](images/2.JPG)
 
 7- press F5 to run python code if you have installed it
+
 ![](images/3.JPG)
 ![](images/4.JPG)
